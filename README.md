@@ -11,7 +11,7 @@ I am Software Developer.
 
 ### My Portfolio Websites
 * [Website 1](https://1994nikunj.github.io/)
-* [Website 2](https://nikunjsharma.netlify.app/) - `Work in Progress`
+* [Website 2](https://nikunjsharma.vercel.app/) - `Work in Progress`
 
 
 ### Skills
